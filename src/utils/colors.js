@@ -1,0 +1,5 @@
+export const backgroundColor = "#F5F6F7"
+export const topBottomBackground = "#DFE3E2"
+export const primaryColor = "#D36314"
+export const mutedText = "#8D8D8D"
+export const secondaryColor = "#2E58A6"
